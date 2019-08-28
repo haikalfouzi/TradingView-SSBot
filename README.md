@@ -20,7 +20,8 @@ Go to your chart setting in TradingView and set the sharing setting to public.<b
 ### Usage
 ```bash
 python tvss.py
-```
+```  
+[chart](GFAAoy4g.png)
 
 ### Additional function
 Uncomment row 24 to 28 to rename the chart with timestamp and move chart to desired location.

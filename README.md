@@ -4,7 +4,7 @@
 This bot allows you to capture any public chart available in TradingView.
 
 ### Requirement
-Download chromedriver binary file and locate the file location in **tvss.py**.
+Download chromedriver binary file and locate the file location in **tvss.py**.\
 [chromedriver](https://chromedriver.chromium.org)
 
 ### Install
@@ -14,7 +14,7 @@ pip install -r requirement.txt
 ```
 
 ### Setup
-Go to your chart setting in TradingView and set the sharing setting to public. Then put the link to the chart inside ***tvss.py***.
+Go to your chart setting in TradingView and set the sharing setting to public.\ Then put the link to the chart inside ***tvss.py***.
 ![setting](setting.png)
 
 ### Usage

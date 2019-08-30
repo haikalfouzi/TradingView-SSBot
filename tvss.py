@@ -26,3 +26,4 @@ time.sleep(3)
 # current_file_name = ""
 # os.rename(current_file_name, dest_dir+"/"+new_name)
 driver.close()
+driver.quit()

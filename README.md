@@ -17,7 +17,7 @@ pip install -r requirement.txt
 Go to your chart setting in TradingView and set the sharing setting to public.<br />Then put the link to the chart inside ***tvss.py***.<br />
 ![setting](setting.png)
 
-### Usage
+### Usage 
 ```bash
 python tvss.py
 ```  
